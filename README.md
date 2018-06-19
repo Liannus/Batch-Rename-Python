@@ -1,2 +1,4 @@
 # Batch-Rename-Python
-Rename multiple files.
+A simple python program used to change the name of files.
+
+```

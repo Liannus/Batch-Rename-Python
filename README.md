@@ -26,7 +26,7 @@ def main():
 if __name__ == "__main__":
     main()
 ```
-The following is editable to change the functionality. This version adds an unserscore at the fifth position.
+The following is editable to change the functionality. This version adds an underscore at the fifth position.
 ```python
 dst = fileName[:5] + "_" + fileName[5:]
 src = path + "\\" + fileName
